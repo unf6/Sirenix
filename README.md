@@ -16,8 +16,6 @@
   </p>
 </p>
 
-## - Code Will Upload After 50+ Star 🔥
-
 ## <img src="https://cdn.discordapp.com/emojis/852881450667081728.gif" width="20px" height="20px"> - Features
 - [x] Slash Commands 
 - [x] Upto date with Discord.js v14
