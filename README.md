@@ -71,3 +71,4 @@ If you liked this repository, feel free to leave a star ⭐ to motivate me!
 
 - [Lyxcode](https://www.youtube.com/c/lyxcode)
 - [Scrappie](https://github.com/notscrappie)
+- [Ducko](https://github.com/DuckoDas)
