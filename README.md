@@ -70,3 +70,4 @@ If you liked this repository, feel free to leave a star ⭐ to motivate me!
 ## <IMG SRC="https://cdn.discordapp.com/attachments/1078181915930136617/1078305677597999185/9870-credits_1.png" width="15px" height="15px"> - Credits
 
 - [Lyxcode](https://www.youtube.com/c/lyxcode)
+- [Scrappie](https://github.com/notscrappie)
