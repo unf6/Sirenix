@@ -43,6 +43,7 @@ Give a ⭐️ if you like this project!
 
 ## <IMG SRC="https://cdn.discordapp.com/attachments/1078181915930136617/1078305677597999185/9870-credits_1.png" width="15px" height="15px"> - Credits
 
+- [Liaam](https://github.com/liaam-dev)
 - [Lyxcode](https://www.youtube.com/c/lyxcode)
 - [Scrappie](https://github.com/notscrappie)
 - [Ducko](https://github.com/DuckoDas)
