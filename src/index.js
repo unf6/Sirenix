@@ -56,4 +56,4 @@ const client = new Client({
 
 })().catch(console.error);
 
-client.login(process.env.token);
+client.login(client.config.token || process.env.TOKEN);
